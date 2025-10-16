@@ -22,3 +22,6 @@ This repository explores which drivers are most likely to accept mobile coupons 
 - **Target habitual customers** within each category (e.g., frequent bar- or coffee-goers) with timely offers.
 - **Consider context**: time-of-day and passenger composition can change acceptance likelihood.
 - **Refine segments** using simple thresholds (e.g., visit frequency > 3×/mo) to lift acceptance rates.
+- Since mostly younger people tend to accept the Coffee House coupons, **making coupons digital** might boost acceptance rates, as many younger people use their phones to pay for things (e.g., ApplePay)
+- Since people going with their partners or a friend correlates to higher rates, having a **BOGO (Buy One, Get One) type coupon** might help, as they are already purchasing in pairs so will be more likely to accepts
+- Coffee House coupons are more likely to be accepted by people who frequent Coffee Houses often, so making sure to change and **update the coupons** to keep the attention of these frequent customers is also important 
